@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vileo06.github.io/goblin-vyke-guide-links/sitemap.xml
